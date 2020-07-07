@@ -24,3 +24,12 @@ quit - to exit
         break
     else:
         print("I don't understand that...")
+
+        
+   '''
+   Notes:
+   1. use while to loops
+   2. use .upper()
+   3. ''' ''' 缩进
+   4. quit meathord & while True.
+   5. use not start to replace stop.
