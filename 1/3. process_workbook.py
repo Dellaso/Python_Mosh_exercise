@@ -1,3 +1,4 @@
+# could finish in about 10 mins
 import openpyxl as xl
 from openpyxl.chart import BarChart, Reference
 
